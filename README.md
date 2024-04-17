@@ -10,7 +10,7 @@ This project is a simple stopwatch webpage created using HTML, CSS, and JavaScri
 - HTML
 - CSS
 - JavaScript
-- 
+  
 ## Screenshot
 ![Screenshot](https://github.com/Seemran26/BYTEUPRISE_WD_03/blob/main/output.png)
 
